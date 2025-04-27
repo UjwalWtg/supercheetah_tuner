@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: supercheetah_tuner
-Version: 0.1.0
+Version: 0.1.2
 Summary: Nature-inspired hyperparameter tuning with Cheetah optimizer
 Home-page: https://github.com/UjwalWtg/supercheetah-tuner
 Author: Ujwal Watgule
